@@ -7,5 +7,5 @@ tirei uma parte do codigo
         .trim()
         .parse()
         .unwrap();
-pois funcionou como uma forma de aprendizado sou iniciante na linguagem rust pretendo estacionar na programação backe-end preciso de uma ajuda pois esta para me teve grande valor muito obrigado a você!!
+pois funcionou como uma forma de aprendizado sou iniciante na linguagem rust pretendo seguir programação backe-end preciso de uma ajuda pois esta para me teve grande valor muito obrigado a você!!
 Jackson-SM
