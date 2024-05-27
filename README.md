@@ -3,7 +3,6 @@ sou iniciante na linguagem rúst. estou contribuído no projeto de gerador de pa
 pois funcionou como uma forma de aprendizado sou iniciante na linguagem rust pretendo seguir programação back-end preciso de uma ajuda pois esta para me teve grande valor muito obrigado a você!!
 Jackson-SM
 
- 
  let amount: usize = read_lines("Quantidade de passwords: ".to_string())
         .trim()
         .parse()
